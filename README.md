@@ -8,7 +8,7 @@ I returned to programming after more than fifteen years to discover something re
 
 ---
 
-## What I Build
+## What I Build 
 
 ### [TryIt-AI (Noah)](https://github.com/HonestImpact/TryItAIagentic/tree/feat/agentic-refactor) — Trust-First AI for Skeptics
 **Status**: Production | Scale-to-Zero on Koyeb
