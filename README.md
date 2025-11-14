@@ -1,7 +1,7 @@
 <picture>
-  <source srcset="./assets/images/hero-dark.png" media="(prefers-color-scheme: dark)">
-  <source srcset="./assets/images/hero-light.png" media="(prefers-color-scheme: light)">
-  <img src="./assets/images/hero-light.png" alt="Isak Griffiths - AI Engineer, Executive Coach, Builder of Production Multi-Agent Systems" width="100%">
+  <source srcset="./assets/images/GitHubHeroDark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./assets/images/GitHubHeroLight.png" media="(prefers-color-scheme: light)">
+  <img src="./assets/images/GitHubHeroLight.png" alt="Isak Griffiths - AI Engineer, Executive Coach, Builder of Production Multi-Agent Systems" width="100%">
 </picture>
 
 # Isak Griffiths
