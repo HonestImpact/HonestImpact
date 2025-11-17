@@ -1,7 +1,7 @@
 <picture>
-  <source srcset="./assets/images/GitHubHeroDark.png" media="(prefers-color-scheme: dark)">
-  <source srcset="./assets/images/GitHubHeroLight.png" media="(prefers-color-scheme: light)">
-  <img src="./assets/images/GitHubHeroLight.png" alt="Isak Griffiths - AI Engineer, Executive Coach, Builder of Production Multi-Agent Systems" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
+  <img alt="Isak Griffiths - Builder, Executive, Coach, Founder" src="hero-dark.svg">
 </picture>
 
 # Isak Griffiths
@@ -89,3 +89,4 @@ Three songs created in collaboration with AI about the return to code, trust in 
 **Last Updated**: November 2025
 **Current Projects**: 2 systems in production, 4 open source components in development
 **Status**: Building in public, shipping with soul
+
