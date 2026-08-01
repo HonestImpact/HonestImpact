@@ -45,9 +45,9 @@ watermarks — the file never leaves your machine. Heavy decoding runs off the m
 thread in Web Workers.
 **Stack**: Astro • Tailwind v4 • TypeScript • WebAssembly + Web Workers • ffmpeg.wasm • jSquash • pdf-lib / pdf.js • Canvas API
 
-### [Sidekick Chats](https://sidekickchats.com/) — Persistent AI personas
-Conversational personas that hold context across sessions instead of starting cold
-every time.
+### [Sidekick Chats](https://sidekickchats.com/) — Personas you can talk to
+A web app with persistent AI personas. One of the first things I built, and still
+the most fun to use.
 
 ### [Management Micro Tools](https://honestimpact.com/micro-tools.html) — Seven utilities for the work of managing
 Small, single-purpose tools for the moments management actually gets hard —
